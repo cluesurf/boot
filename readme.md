@@ -12,7 +12,7 @@
 
 <h3 align='center'>@cluesurf/boot</h3>
 <p align='center'>
-  A Tempered Workshop 𐌎
+  A Workshop Notebook 𐌎
 </p>
 
 <br/>
